@@ -1,3 +1,16 @@
+## Requisitos
+- Reacj.js
+
+## Configuración del Frontend
+1. Navegar al directorio client y ejecutar npm install.
+2. Verificar services/api concuerde la ip con los puestos del backend
+3. Ejecutar npm start para iniciar la aplicación de React.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
