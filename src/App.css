@@ -1,3 +1,10 @@
+body {
+  background-image: linear-gradient(to right bottom, #051937, #00476e, #007b9f, #00b3bf, #12ebce);
+min-height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
 .App {
   text-align: center;
 }
